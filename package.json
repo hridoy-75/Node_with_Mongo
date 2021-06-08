@@ -1,0 +1,24 @@
+{
+  "name": "Node_with_Mongo",
+  "version": "1.0.0",
+  "description": "Node_with_Mongo tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hridoy75-hub/Node_with_Mongo.git"
+  },
+  "keywords": [],
+  "author": "hridoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hridoy75-hub/Node_with_Mongo/issues"
+  },
+  "homepage": "https://github.com/Hridoy75-hub/Node_with_Mongo#readme",
+  "dependencies": {
+    "mongodb": "^3.6.9",
+    "nodemon": "^2.0.7"
+  }
+}
